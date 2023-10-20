@@ -5,7 +5,7 @@
 <details align="center">
 <summary>Languages</summary>
 
-|            |
+| SKILLS |
 | ---------- |
 | HTML       |
 | CSS        |
@@ -20,7 +20,7 @@
 <details align="center">
 <summary>Frameworks</summary>
 
-|            |
+|SKILLS|
 | ---------- |
 | Bootstrap  |
 | Tailwaind  |
