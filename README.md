@@ -30,6 +30,12 @@
 
 </details>
 
+---
+
+> Who dares win.
+
+— 1 RPIma
+
 <!--
 **GNT-N/GNT-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
