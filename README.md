@@ -9,15 +9,14 @@
 <details>
 <summary>Languages</summary>
 
-| SKILLS     |
 | ---------- |
-| HTML       |
-| CSS        |
+| HTML |
+| CSS |
 | Javascript |
-| TWIG       |
-| TypeScipt  |
-| PHP        |
-| SQL        |
+| TWIG |
+| TypeScipt |
+| PHP |
+| SQL |
 
 </details>
 </div>
