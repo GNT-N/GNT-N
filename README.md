@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 , i'm web developper full stack
+
+| Languages |
+|-----------|
+| HTML |
+| CSS |
+| Javascript |
+| TWIG |
+| TypeScipt|
+| PHP |
+| SQL |
 
 <!--
 **GNT-N/GNT-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
