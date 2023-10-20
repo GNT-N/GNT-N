@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 , </h1>
 <h3 align="center">i'm web developper full stack</h3>
 <br/><br/>
----
+------
 
 <div align="center">
 <details>
@@ -37,7 +37,6 @@
 
 </details>
 </div>
-
 ---
 
 <h1 align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=GNT-N&show_icons=true&theme=merko&locale=en&layout=compact" alt="GNT-N" /></h1>
