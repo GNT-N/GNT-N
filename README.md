@@ -1,18 +1,31 @@
 ### Hi there 👋 , i'm web developper full stack
 
 <details>
+<summary>Languages</summary>
 
-<summary>Skills</summary>
+| Languages  |
+| ---------- |
+| HTML       |
+| CSS        |
+| Javascript |
+| TWIG       |
+| TypeScipt  |
+| PHP        |
+| SQL        |
 
-| Languages  | Frameworks |
-| ---------- | ---------- |
-| HTML       | Bootstrap  |
-| CSS        | Tailwaind  |
-| Javascript | Jquery     |
-| TWIG       | REACT      |
-| TypeScipt  | NEXTJS     |
-| PHP        | Symfony    |
-| SQL        | PHPmyAdmin |
+</details>
+
+<details>
+<summary>Languages</summary>
+| Frameworks |
+| ---------- |
+| Bootstrap  |
+| Tailwaind  |
+ Jquery     |
+| REACT      |
+| NEXTJS     |
+| Symfony    |
+| PHPmyAdmin |
 
 </details>
 
