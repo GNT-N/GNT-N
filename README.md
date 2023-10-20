@@ -9,34 +9,17 @@
 
 <div align="center">
 <details>
-<summary>Languages</summary>
+<summary>SKILLS</summary>
 
-| SKILLS     |
-| ---------- |
-| HTML       |
-| CSS        |
-| Javascript |
-| TWIG       |
-| TypeScipt  |
-| PHP        |
-| SQL        |
-
-</details>
-</div>
-
-<div align="center">
-<details align="center">
-<summary>Frameworks</summary>
-
-| SKILLS     |
-| ---------- |
-| Bootstrap  |
-| Tailwaind  |
-| Jquery     |
-| REACT      |
-| NEXTJS     |
-| Symfony    |
-| PHPmyAdmin |
+| Languages  | Frameworks |
+| ---------- | ---------- |
+| HTML       | Bootstrap  |
+| CSS        | Tailwaind  |
+| Javascript | Jquery     |
+| TWIG       | REACT      |
+| TypeScipt  | NEXTJS     |
+| PHP        | Symfony    |
+| SQL        | PHPmyAdmin |
 
 </details>
 </div>
