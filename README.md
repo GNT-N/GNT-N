@@ -1,8 +1,6 @@
 ---
 <h1 align="center">Hi there 👋 , </h1>
 <h3 align="center">i'm web developper full stack</h3>
-
-<br><br><br>
 ---
 
 <details>
