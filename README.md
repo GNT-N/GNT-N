@@ -25,7 +25,7 @@
 <hr>
 🔭 I’m currently working on :
 <br/>
-<a href="https://github.com/dlepaux/realtime-bpm-analyzer" target="blank">- Realtime BPM Analyzer</a>
+- <a href="https://github.com/dlepaux/realtime-bpm-analyzer" target="blank">Realtime BPM Analyzer</a>
 
 ---
 
