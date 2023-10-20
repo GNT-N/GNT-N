@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 , </h1>
 <h3 align="center">i'm web developper full stack</h3>
 
-<details>
+<details align="center">
 <summary>Languages</summary>
 
 |            |
@@ -17,7 +17,7 @@
 
 </details>
 
-<details>
+<details align="center">
 <summary>Frameworks</summary>
 
 |            |
