@@ -1,12 +1,14 @@
 ---
 <h1 align="center">Hi there 👋 , </h1>
 <h3 align="center">i'm web developper full stack</h3>
+<br/><br/>
+---
 
 <div align="center">
 <details>
 <summary>Languages</summary>
 
-| SKILLS |
+| SKILLS     |
 | ---------- |
 | HTML       |
 | CSS        |
@@ -19,10 +21,11 @@
 </details>
 </div>
 
+<div align="center">
 <details align="center">
 <summary>Frameworks</summary>
 
-|SKILLS|
+| SKILLS     |
 | ---------- |
 | Bootstrap  |
 | Tailwaind  |
@@ -33,6 +36,8 @@
 | PHPmyAdmin |
 
 </details>
+</div>
+
 ---
 
 <h1 align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=GNT-N&show_icons=true&theme=merko&locale=en&layout=compact" alt="GNT-N" /></h1>
