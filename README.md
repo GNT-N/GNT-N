@@ -3,20 +3,21 @@
 <h3 align="center">i'm web developper full stack</h3>
 <br/><br/>
 <!-- --- -->
---
+---
 
 <div align="center">
 <details>
 <summary>Languages</summary>
 
+| SKILLS     |
 | ---------- |
-| HTML |
-| CSS |
+| HTML       |
+| CSS        |
 | Javascript |
-| TWIG |
-| TypeScipt |
-| PHP |
-| SQL |
+| TWIG       |
+| TypeScipt  |
+| PHP        |
+| SQL        |
 
 </details>
 </div>
@@ -37,6 +38,7 @@
 
 </details>
 </div>
+
 ---
 
 <h1 align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=GNT-N&show_icons=true&theme=merko&locale=en&layout=compact" alt="GNT-N" /></h1>
