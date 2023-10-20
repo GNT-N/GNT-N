@@ -102,7 +102,7 @@
 
 ---
 
-<h1 align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=GNT-N&show_icons=true&theme=merko&locale=en&layout=compact" alt="GNT-N" /></h1>
+<!-- <h1 align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=GNT-N&show_icons=true&theme=merko&locale=en&layout=compact" alt="GNT-N" /></h1> -->
 
 > Who dares win.
 
