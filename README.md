@@ -3,6 +3,7 @@
 <details>
 <summary>Languages</summary>
 
+| ---------- |
 | HTML |
 | CSS |
 | Javascript |
@@ -16,6 +17,7 @@
 <details>
 <summary>Frameworks</summary>
 
+| ---------- |
 | Bootstrap |
 | Tailwaind |
 | Jquery |
