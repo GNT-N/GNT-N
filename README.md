@@ -104,17 +104,6 @@
 
 <h1 align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=GNT-N&show_icons=true&theme=merko&locale=en&layout=compact" alt="GNT-N" /></h1>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/nicolas-gonot-3054a7272/" target="blank">
-        <img align="center" 
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" 
-            alt="nicolas-gonot" 
-            height="30" 
-            width="40" />
-    </a>
-</p>
-
 > Who dares win.
 
 — 1 RPIma
