@@ -3,27 +3,29 @@
 <details>
 <summary>Languages</summary>
 
+|            |
 | ---------- |
-| HTML |
-| CSS |
+| HTML       |
+| CSS        |
 | Javascript |
-| TWIG |
-| TypeScipt |
-| PHP |
-| SQL |
+| TWIG       |
+| TypeScipt  |
+| PHP        |
+| SQL        |
 
 </details>
 
 <details>
 <summary>Frameworks</summary>
 
+|            |
 | ---------- |
-| Bootstrap |
-| Tailwaind |
-| Jquery |
-| REACT |
-| NEXTJS |
-| Symfony |
+| Bootstrap  |
+| Tailwaind  |
+| Jquery     |
+| REACT      |
+| NEXTJS     |
+| Symfony    |
 | PHPmyAdmin |
 
 </details>
