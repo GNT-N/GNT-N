@@ -1,4 +1,9 @@
-### Hi there 👋 , i'm web developper full stack
+---
+<h1 align="center">Hi there 👋 , </h1>
+<h3>i'm web developper full stack</h3>
+---
+
+<br><br><br>
 
 <details>
 <summary>Languages</summary>
@@ -29,6 +34,10 @@
 | PHPmyAdmin |
 
 </details>
+
+---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GNT-N&show_icons=true&theme=merko&locale=en&layout=compact" alt="GNT-N" /></p>
 
 ---
 
