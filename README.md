@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋 , </h1>
 
 <h3 align="center">i'm web developper full stack</h3>
-<br/>
 
 <h3 align="center">https://gonot-nicolas.com</h3>
 <br/>
