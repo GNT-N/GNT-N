@@ -24,7 +24,7 @@
 
 <hr>
 🔭 I’m currently working on:
-- [Realtime BPM Analyzer](https://github.com/dlepaux/realtime-bpm-analyzer)
+<a href="https://github.com/dlepaux/realtime-bpm-analyzer" target="blank">- Realtime BPM Analyzer</a>
 
 ---
 
@@ -32,7 +32,13 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/nicolas-gonot-3054a7272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="nicolas-gonot" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/nicolas-gonot-3054a7272/" target="blank">
+        <img align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" 
+            alt="nicolas-gonot" 
+            height="30" 
+            width="40" />
+    </a>
 </p>
 
 > Who dares win.
