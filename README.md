@@ -1,14 +1,20 @@
 ### Hi there 👋 , i'm web developper full stack
 
-| Languages |
-|-----------|
-| HTML |
-| CSS |
-| Javascript |
-| TWIG |
-| TypeScipt|
-| PHP |
-| SQL |
+<details>
+
+<summary>Skills</summary>
+
+| Languages  | Frameworks |
+| ---------- | ---------- |
+| HTML       | Bootstrap  |
+| CSS        | Tailwaind  |
+| Javascript | Jquery     |
+| TWIG       | REACT      |
+| TypeScipt  | NEXTJS     |
+| PHP        | Symfony    |
+| SQL        | PHPmyAdmin |
+
+</details>
 
 <!--
 **GNT-N/GNT-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
