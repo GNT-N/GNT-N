@@ -1,7 +1,6 @@
 # Nicolas Gonot
 
-Développeur web fullstack — PHP / Symfony et React / Next.js
-Lyon · [gonot-nicolas.com](https://gonot-nicolas.com)
+Développeur web fullstack — PHP / Symfony et React / Next.js · Lyon · [gonot-nicolas.com](https://gonot-nicolas.com)
 
 Je conçois, développe et mets en production des applications métier
 et des sites clients : du recueil du besoin à la maintenance.
